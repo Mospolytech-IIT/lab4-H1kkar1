@@ -3,7 +3,7 @@
 ## Запуск
 
 ```
-pip install requirements
+pip install requirements.txt
 ```
 
 Предварительно уберите комментарии с функций для заданий
